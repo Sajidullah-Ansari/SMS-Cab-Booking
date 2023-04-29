@@ -85,8 +85,8 @@ Android app that listens for incoming SMS text/data messages and conditionally s
     * where the value of `${original_SMS_sender}` is:
       * a name
         * when the phone number of the _real_ SMS sender is associated with a name in the _Google Voice_ account _Contacts_ list
-        * ex: `John Smith`
+        * ex: `MD Sajidullah Ansari `
       * a phone number
         * when the phone number of the _real_ SMS sender is not found in _Contacts_
-        * ex: `+19876543210`
+        * ex: `+918770618392`
 
