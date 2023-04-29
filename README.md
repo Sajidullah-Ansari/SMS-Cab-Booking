@@ -1,5 +1,3 @@
-#### [SMS my GPS](https://github.com/warren-bank/Android-SMS-Automatic-Reply-GPS)
-
 Android app that listens for incoming SMS text/data messages and conditionally sends an automatic reply containing GPS location data.
 
 #### Screenshots:
@@ -92,9 +90,3 @@ Android app that listens for incoming SMS text/data messages and conditionally s
         * when the phone number of the _real_ SMS sender is not found in _Contacts_
         * ex: `+19876543210`
 
-- - - -
-
-#### Legal:
-
-* copyright: [Warren Bank](https://github.com/warren-bank)
-* license: [GPL-2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt)
