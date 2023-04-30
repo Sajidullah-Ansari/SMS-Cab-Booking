@@ -1,3 +1,5 @@
+MD Sajidullah Ansari
+
 Android app that listens for incoming SMS text/data messages and conditionally sends an automatic reply containing GPS location data.
 
 #### Screenshots:
@@ -54,15 +56,6 @@ Android app that listens for incoming SMS text/data messages and conditionally s
     * Accuracy (meters)
     * Speed (meters/second)
     * URL to view a map of Lat/Lon on _Google Maps_
-
-#### Notes:
-
-* minimum supported version of Android:
-  * Android 3.0 (API level 11)
-
-#### Changelog:
-
-* [Version History](./CHANGELOG.md)
 
 - - - -
 
